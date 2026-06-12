@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Temp files
+*.tmp
+temp/
+
+# Streamlit secrets (if any)
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
